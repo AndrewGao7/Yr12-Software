@@ -73,3 +73,17 @@ main p{
     text-align: center;
     align-items: center;
 }
+
+main .showUser{
+    background-image: url(../static/LoginLogo.png)
+
+}
+
+main .UnknownUser{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-image: url('../static/UserLogo.png');
+}
